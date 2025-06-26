@@ -1,0 +1,2 @@
+main - postgresql
+master - redis
